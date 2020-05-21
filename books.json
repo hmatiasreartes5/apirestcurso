@@ -1,0 +1,17 @@
+[  
+    {  
+        "id": "1",  
+        "name": "Song of ice and fire",  
+        "authorId": "1"   
+    },  
+    {  
+        "id": "2",  
+        "name": "Cien años de soledad",  
+        "authorId": "2" 
+    },
+    {
+        "id": "3",  
+        "name": "Dragon of dance",  
+        "authorId": "1" 
+    }
+]
